@@ -1,7 +1,11 @@
-## Cloudtrust
+# Status
 
-Open source & Swiss-made CASB! Coming soon...
+Coming soon...
 
-### Contact
+# Documentation
+
+<https://cloudtrust.github.io/doc/>
+
+# Contact
 
 <info@cloudtrust.io>
