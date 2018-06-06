@@ -1,1 +1,22 @@
 theme: jekyll-theme-architect
+
+name: CloudTrust
+
+description: Open source & Swiss-made CASB
+
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: cloudtrust
+  instagram:
+  linkedin:
+  pinterest:
+  rss: 
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
